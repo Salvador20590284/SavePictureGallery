@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SavePictureGallery</string>
+    <string name="martinez_cerqueda_jesus_guillermo">Martinez Cerqueda Jesus Guillermo</string>
+    <string name="tomar_foto">Tomar Foto</string>
+    <string name="guardar_foto">Guardar Foto</string>
+    <string name="todo">TODO</string>
+</resources>
